@@ -95,6 +95,7 @@ the hardware to test the above.
 - Kernels: 5.10 - 5.11 (Realtek)
 - Kernels: 5.12 - 6.14  (community support)
 - Kernels: 6.18.4 and later (debian based distros only with gcc 15.2)
+- Kernels: 7.0 - 7.2 (community support, this fork - see PATCH-NOTES.md)
 
 Note: Kernels earlier than 5.10 may work but are not tested or
 supported.
@@ -103,6 +104,7 @@ supported.
 
 - gcc 12, 13 and 14
 - gcc 15.2 (only for kernels 6.18.4 and later)
+- gcc 13.3 (kernel 7.2 compile test, this fork)
 
 ### Tested Linux Distributions
 
